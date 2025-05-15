@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vadim\\source\\repos\\Music_store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\shiftform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:shiftform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\shiftform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:shiftform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\positionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:positionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\productform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:productform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\warehouseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:warehouseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\positionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:positionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\saleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:saleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|c:\\users\\vadim\\source\\repos\\music_store\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEF3A54C-0E8E-422C-B784-D9C4CAE0215D}|MusicStoreWarehouse.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\ProductForm.cs",
+              "RelativeDocumentMoniker": "ProductForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\ProductForm.cs",
+              "RelativeToolTip": "ProductForm.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAkwLwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:38:23.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShiftForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\ShiftForm.cs",
+              "RelativeDocumentMoniker": "ShiftForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\ShiftForm.cs",
+              "RelativeToolTip": "ShiftForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwIYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:40:27.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShiftForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\ShiftForm.Designer.cs",
+              "RelativeDocumentMoniker": "ShiftForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\ShiftForm.Designer.cs",
+              "RelativeToolTip": "ShiftForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:36:48.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarehouseForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\WarehouseForm.cs",
+              "RelativeDocumentMoniker": "WarehouseForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\WarehouseForm.cs",
+              "RelativeToolTip": "WarehouseForm.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAkwKEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:39:10.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PositionForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\PositionForm.cs",
+              "RelativeDocumentMoniker": "PositionForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\PositionForm.cs",
+              "RelativeToolTip": "PositionForm.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:38:54.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\EmployeeForm.cs",
+              "RelativeToolTip": "EmployeeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:04:55.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\DatabaseConnection.cs",
+              "RelativeToolTip": "DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:05:33.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\ProductForm.Designer.cs",
+              "RelativeDocumentMoniker": "ProductForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\ProductForm.Designer.cs",
+              "RelativeToolTip": "ProductForm.Designer.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAkwMgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:37:58.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:37:48.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkDAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:56:05.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WarehouseForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\WarehouseForm.Designer.cs",
+              "RelativeDocumentMoniker": "WarehouseForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\WarehouseForm.Designer.cs",
+              "RelativeToolTip": "WarehouseForm.Designer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAkwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:37:25.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PositionForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\PositionForm.Designer.cs",
+              "RelativeDocumentMoniker": "PositionForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\PositionForm.Designer.cs",
+              "RelativeToolTip": "PositionForm.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:37:12.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\EmployeeForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\EmployeeForm.Designer.cs",
+              "RelativeToolTip": "EmployeeForm.Designer.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAkwOUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:05:21.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\OrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "OrderForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\OrderForm.Designer.cs",
+              "RelativeToolTip": "OrderForm.Designer.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAkwLoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:36:29.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaleForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\SaleForm.Designer.cs",
+              "RelativeDocumentMoniker": "SaleForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\SaleForm.Designer.cs",
+              "RelativeToolTip": "SaleForm.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAkwNEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:36:15.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:36:05.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\OrderForm.cs",
+              "RelativeDocumentMoniker": "OrderForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\OrderForm.cs",
+              "RelativeToolTip": "OrderForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:35:24.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SaleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\SaleForm.cs",
+              "RelativeDocumentMoniker": "SaleForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\SaleForm.cs",
+              "RelativeToolTip": "SaleForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:35:07.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAACMFAAAAAAAAAAAkwEkFAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:53:05.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:04:26.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\Music_store\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\Music_store\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:57:59.494Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
